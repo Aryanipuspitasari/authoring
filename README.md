@@ -27,8 +27,8 @@
 :smile:
 :slightly_smiling_face:
   
-## ![image]
-(logo.png)
+## Images
+![image](logo.png)
 
 ## Table
 <table>
