@@ -16,7 +16,7 @@
 | Anna     | Berlin   | 30       |
 | Maya     | Hamburg  | 25       |
 
-## External-link [GitHub documentation](https://help.github.com/en) 
+## External link [GitHub documentation](https://help.github.com/en) 
 
 ## Internal link [images folder](https://github.com/Aryanipuspitasari/authoring/blob/main/logo.png)
 
