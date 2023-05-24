@@ -16,18 +16,18 @@
 | Anna     | Berlin   | 30       |
 | Maya     | Hamburg  | 25       |
 
-## Externl-link {#external-link} [GitHub documentation](https://help.github.com/en) 
+## External-link {#external-link} [GitHub documentation](https://help.github.com/en) 
 
-## Link to the [images folder](https://github.com/Aryanipuspitasari/authoring/blob/main/logo.png)
+## Internal link {#internal-link} [images folder](https://github.com/Aryanipuspitasari/authoring/blob/main/logo.png)
 
-## Add an emoji
+## Emoji {#emoji}
 
 :smile:
 :slightly_smiling_face:
   
 ## ![image](logo.png)
 
-## Table 
+## Table {#table}
 | Name     | class     | 
 | -------- | --------  | 
 | Stephan  | Wismar    | 
