@@ -19,14 +19,16 @@
 ## External link 
 [GitHub documentation](https://help.github.com/en) 
 
-## Internal link [images folder](https://github.com/Aryanipuspitasari/authoring/blob/main/logo.png)
+## Internal link 
+[images folder](https://github.com/Aryanipuspitasari/authoring/blob/main/logo.png)
 
 ## Emojis
 
 :smile:
 :slightly_smiling_face:
   
-## ![image](logo.png)
+## ![image]
+(logo.png)
 
 ## Table
 <table>
