@@ -20,12 +20,12 @@
 
 ## Internal link [images folder](https://github.com/Aryanipuspitasari/authoring/blob/main/logo.png)
 
-## Emoji{#emojis}
+## Emojis
 
 :smile:
 :slightly_smiling_face:
   
-## ![image](logo.png){#image}
+## ![image](logo.png)
 
 ## Table
 <table>
